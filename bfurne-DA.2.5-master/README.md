@@ -26,6 +26,7 @@ pip install statsmodels
 pip install scipy
 pip install statistics
 ```
+Or see requirements.txt
 
 # Data Source
 The dataset was downloaded from [Kaggle](https://www.kaggle.com/datasets/thoughtvector/podcastreviews/versions/28)
